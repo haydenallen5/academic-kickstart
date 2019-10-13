@@ -23,7 +23,7 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "girona.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -40,7 +40,7 @@ height = ""
   align = "Center"
 
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "peaks2019.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,7 +49,7 @@ height = ""
   align = "Center"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "beckettacre.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   [[item]]
@@ -58,7 +58,7 @@ height = ""
   align = "center"  # Choose `center`, `left`, or `right`.
   
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "roglic.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   [[item]]
