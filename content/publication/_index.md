@@ -14,12 +14,12 @@ header:
   image: ""
 ---
 
-Published journal articles 
-•	Anti-doping policy, therapeutic use exemption and medication use in athletes with asthma: a narrative review and critical appraisal of evidence. Allen H., Backhouse S.H., Hull J.H., Price O.J. (Sports Medicine, 2019)
 
-•	Diagnosing exercise-induced bronchoconstriction: over or under detection? Jackson A.*, Allen H.*, Hull J.H., Backhouse S.H., Hopker J., Price O.J., Dickinson J. (Allergy, 2019)
+1. Anti-doping policy, therapeutic use exemption and medication use in athletes with asthma: a narrative review and critical appraisal of evidence. Allen H., Backhouse S.H., Hull J.H., Price O.J. (Sports Medicine, 2019)
 
-•	The Allergy Questionnaire for Athletes provides value in the assessment of exercise-induced bronchoconstriction. Allen H., Hull J.H, Backhouse S.H., Dickinson J.W., De Carne T., Dimitrou L., Price O.J (Allergy, 2019)
+2. Diagnosing exercise-induced bronchoconstriction: over or under detection? Jackson A.*, Allen H.*, Hull J.H., Backhouse S.H., Hopker J., Price O.J., Dickinson J. (Allergy, 2019)
+
+3. The Allergy Questionnaire for Athletes provides value in the assessment of exercise-induced bronchoconstriction. Allen H., Hull J.H, Backhouse S.H., Dickinson J.W., De Carne T., Dimitrou L., Price O.J (Allergy, 2019)
 
 Published abstracts and conference proceedings
 
