@@ -19,7 +19,12 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Asthma is prevalent in athletes and when untreated can impact both respiratory health and sports performance. Pharmacological inhaler therapy currently forms the mainstay of treatment; however, for elite athletes competing under the constraints
+of the World Anti-Doping Code (Code), a number of established therapies are prohibited both in and/or out of competition
+and/or have a maximum permitted dose. The recent release of medical information detailing inhaler therapy in high-profle
+athletes has brought the legitimacy and utilisation of asthma medication in this setting into sharp focus. This narrative review
+critically appraises recent changes to anti-doping policy and the Code in the context of asthma management, evaluates the
+impact of asthma medication use on sports performance and employs a theory of behaviour to examine perceived determinants and barriers to athletes adhering to the anti-doping rules of sport when applied to asthma.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
