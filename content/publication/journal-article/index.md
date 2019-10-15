@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Sports Med"
 authors:
 - admin
 - Robert Ford
