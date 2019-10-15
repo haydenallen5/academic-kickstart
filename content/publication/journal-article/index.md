@@ -1,6 +1,6 @@
 ---
 title: "Anti‑doping Policy, Therapeutic Use Exemption and Medication Use
-in Athletes with Asthma: A Narrative Review and Critical Appraisal
+in Athletes with Asthma A Narrative Review and Critical Appraisal
 of Current Regulations"
 authors:
 - admin
