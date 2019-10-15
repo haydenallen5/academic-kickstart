@@ -1,5 +1,7 @@
 ---
-title: "Sports Med"
+title: "Anti‑doping Policy, Therapeutic Use Exemption and Medication Use
+in Athletes with Asthma: A Narrative Review and Critical Appraisal
+of Current Regulations"
 authors:
 - admin
 
@@ -27,7 +29,7 @@ critically appraises recent changes to anti-doping policy and the Code in the co
 impact of asthma medication use on sports performance and employs a theory of behaviour to examine perceived determinants and barriers to athletes adhering to the anti-doping rules of sport when applied to asthma.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
