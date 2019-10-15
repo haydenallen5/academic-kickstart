@@ -2,7 +2,7 @@
 title: "Sports Med"
 authors:
 - admin
-- Robert Ford
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -29,9 +29,9 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+# - name: 
+#   url: 
+url_pdf: https://link.springer.com/content/pdf/10.1007%2Fs40279-019-01075-z.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
