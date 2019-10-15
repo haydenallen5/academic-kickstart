@@ -22,7 +22,7 @@ publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: Asthma is prevalent in athletes and when untreated can impact both respiratory health and sports performance. Pharmacological inhaler therapy currently forms the mainstay of treatment; however, for elite athletes competing under the constraints
-of the World Anti-Doping Code (Code), a number of established therapies are prohibited both in and/or out of competition
+of the World Anti-Doping Code, a number of established therapies are prohibited both in and/or out of competition
 and/or have a maximum permitted dose. The recent release of medical information detailing inhaler therapy in high-profle
 athletes has brought the legitimacy and utilisation of asthma medication in this setting into sharp focus. This narrative review
 critically appraises recent changes to anti-doping policy and the Code in the context of asthma management, evaluates the
