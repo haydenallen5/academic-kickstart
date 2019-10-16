@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "Endurance Physiology Consultancy"
+  url = ""
+  weight = 40
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
