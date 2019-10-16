@@ -33,6 +33,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=md6_QpgAAAAJ&hl
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/haydenallen/
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
