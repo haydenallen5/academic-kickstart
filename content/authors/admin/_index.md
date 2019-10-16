@@ -36,6 +36,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Hayden_Allen2
+- icon: university
+  icon_pack: fas
+  link: https://www.leedsbeckett.ac.uk/staff/hayden-allen/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/haydenallen/
