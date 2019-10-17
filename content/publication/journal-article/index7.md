@@ -1,11 +1,11 @@
 ---
-title: "Anti‑doping Policy, Therapeutic Use Exemption and Medication Use
-in Athletes with Asthma A Narrative Review and Critical Appraisal
-of Current Regulations"
+title: "The Allergy Questionnaire for Athletes provides value in ruling‐out exercise‐induced bronchoconstriction"
 authors:
 - admin
-- Susan H. Backhouse
 - James H. Hull
+- Susan H. Backhouse
+- Taidgh De Carne
+- Lygeri Dimitriou
 - Oliver J. Price
 
 date: "2019-10-15T00:00:00Z"
@@ -24,8 +24,7 @@ publication_types: ["2"]
 publication: "Sports Medicine"
 publication_short: ""
 
-abstract: Asthma is prevalent in athletes and when untreated can impact both respiratory health and sports performance. Pharmacological inhaler therapy currently forms the mainstay of treatment, however, for elite athletes competing under the constraints of the World Anti-Doping Code, a number of established therapies are prohibited both in and/or out of competition and/or have a maximum permitted dose. The recent release of medical information detailing inhaler therapy in high-profleathletes has brought the legitimacy and utilisation of asthma medication in this setting into sharp focus. This narrative review critically appraises recent changes to anti-doping policy and the Code in the context of asthma management, evaluates the impact of asthma medication use on sports performance and employs a theory of behaviour to examine perceived determinants and barriers to athletes adhering to the anti-doping rules of sport when applied to asthma.
-
+abstract: 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -36,7 +35,7 @@ featured: false
 # links:
 # - name: 
 #   url: 
-url_pdf: https://link.springer.com/content/pdf/10.1007%2Fs40279-019-01075-z.pdf
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/all.13778
 url_code: ''
 url_dataset: ''
 url_poster: ''
