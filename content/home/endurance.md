@@ -74,6 +74,6 @@ subtitle = "Evidence informed development of endurance physiology"
  # CSS class.
  css_class = ""
 +++
-I am interested in the conducting endurance physiology consultancy work in the future.
+I am interested in the delivery of endurance physiology consultancy work in the future.
 
-Please check back in the future for details of my services.
+Please check back for details of my services.
