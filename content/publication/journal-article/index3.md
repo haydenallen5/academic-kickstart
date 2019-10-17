@@ -31,7 +31,7 @@ abstract: Asthma is prevalent in athletes and when untreated can impact both res
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: 
