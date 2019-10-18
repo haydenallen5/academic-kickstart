@@ -37,3 +37,4 @@ projects: []
 
 Intro...
 url = "files/Body composition tracking.xlsx"
+{{% staticref "files/Body composition tracking.xlsx" %}}Download worksheet{{% /staticref %}}
