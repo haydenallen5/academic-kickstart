@@ -1,7 +1,7 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'The pursuit of optimal body composition'
+subtitle: 'My evidence informed journey'
+summary: Introduction to body composition, the impact on endurance sport, the concerns, the method.
 authors:
 - admin
 tags:
@@ -31,4 +31,4 @@ image:
 projects: []
 ---
 
-Weight monitoring
+Intro...
