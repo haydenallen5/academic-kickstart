@@ -1,6 +1,6 @@
 ---
-title: 'The pursuit of optimal body composition'
-subtitle: 'My evidence informed journey'
+title: 'Strength Training for Endurance Training'
+subtitle: ''
 summary: Introduction to body composition, the impact on endurance sport, the concerns, the method.
 authors:
 - admin
