@@ -12,7 +12,7 @@ date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: false
-url = "files/Body composition tracking.xlsx"
+{{% staticref "files/Body composition tracking.xlsx" %}}Download worksheet{{% /staticref %}}
 
 
 # Featured image
