@@ -1,7 +1,7 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Physiology testing of choice 2020 season'
+subtitle: 'The determination of the most important physiological variables in endurance performance'
+summary: 
 authors:
 - admin
 tags:
@@ -31,4 +31,4 @@ image:
 projects: []
 ---
 
-Preseason 2019
+Intro...
