@@ -6,7 +6,6 @@ authors:
 - admin
 tags:
 - Academic
-- {{% staticref "files/Body composition tracking.xlsx" %}}Download worksheet{{% /staticref %}}
 
 categories:
 - Demo
