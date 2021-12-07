@@ -1,12 +1,14 @@
 ---
 authors:
 - Hayden Allen
-bio: My research interests encompass endurance performance and respiratory physiology.
-education:
+bio: Aspiring applied exercise physiologist and performance scientist in elite endurance sports. 
+
+I completed my PhD at Leeds Beckett University (Oct 21) titled Detection methods, medication use and sports performance in athletes with 
+exercise-induced bronchoconstriction.
   courses:
   - course: PhD Exercise Physiology
     institution: Leeds Beckett University
-    year: 2020 (in progress)
+    year: 2021 
   - course: MRes Human Biology
     institution: Loughborough University
     year: 2016
@@ -15,14 +17,14 @@ education:
     year: 2015
 email: "hayden.allen@hotmail.co.uk"
 interests:
-- Endurance Performance
-- Exercise-induced asthma
-- Anti-Doping
+- Limitations to endurance Performance
+- Training and competition data analysis 
+- Interval training and intensity distribution
 name: Hayden Allen
 organizations:
 - name: Leeds Beckett University
   url: "https://www.leedsbeckett.ac.uk/staff/hayden-allen/"
-role: Graduate Teaching Assistant Exercise Physiology
+role: Lecturer in Exercise Physiology
 social:
 - icon: envelope
   icon_pack: fas
