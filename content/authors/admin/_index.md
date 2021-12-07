@@ -2,7 +2,7 @@
 authors:
 - Hayden Allen
 bio: Aspiring applied exercise physiologist and performance scientist in elite endurance sports. 
-I completed my PhD at Leeds Beckett University (Oct 21) titled Detection methods, medication use and sports performance in athletes with 
+I completed my PhD at Leeds Beckett University (Oct 21) titled Detection methods medication use and sports performance in athletes with 
 exercise-induced bronchoconstriction:
   courses:
   - course: PhD Exercise Physiology
